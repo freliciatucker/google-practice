@@ -1,3 +1,2 @@
-hey lol
-first commit! 
-new change
+# about me.
+This is my about me project 
